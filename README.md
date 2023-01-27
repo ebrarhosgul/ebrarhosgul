@@ -47,8 +47,7 @@
 
 <div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ebrarhosgul&theme=dark&border_radius=10&mode=weekly)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrarhosgul&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ebrarhosgul&theme=dark&border_radius=10&mode=weekly)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrarhosgul&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
