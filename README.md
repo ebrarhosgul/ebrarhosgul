@@ -14,7 +14,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ebrarhosgul&style=flat-square&color=blue" alt="views"/>
 </div> -->
-
 <h1 align="center">Hi there 👋</h1>
 
 ### :man_technologist: About Me :
@@ -41,7 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
 </div>  
-<hr>
 <!-- 
 ### :fire: My Stats :
 
