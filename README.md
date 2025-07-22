@@ -28,15 +28,19 @@
 </div>  -->
 <hr>
 
-### 📚 Learning
-- Focused on: Fullstack integration, reusable components, performance optimization
+### 📚 Currently diving deeper into:
+- Fullstack integration (Node.js + Supabase)
+- Reusable component architecture
+- Performance optimization with React/Next
 
 <hr>
 
 ### 🗂️ Featured Projects
-- 📒 React Note App – Coming Soon
+- 📒 React Note App – <i>Coming Soon</i>
 
 <hr>
 
 ### 📫 Reach Me
-- LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-EbrarHosgul-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/ebrarhosgul/))
+- [LinkedIn](https://www.linkedin.com/in/ebrarhosgul/)
+- ebrarhosgul@outlook.com
+
