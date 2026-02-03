@@ -25,12 +25,12 @@
   <tr>
     <td align="center" width="33%">
       <br>
-      <img src="https://skillicons.dev/icons?i=ts" width="45" /><br/>
-      <sub>TypeScript</sub><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" /><br/>
+      <sub>Next.js</sub><br/><br/>
       <img src="https://skillicons.dev/icons?i=react" width="45" /><br/>
       <sub>React</sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" /><br/>
-      <sub>Next.js</sub>
+      <img src="https://skillicons.dev/icons?i=ts" width="45" /><br/>
+      <sub>TypeScript</sub><br/><br/>
     </td>
     <td align="center" width="33%">
       <br>
